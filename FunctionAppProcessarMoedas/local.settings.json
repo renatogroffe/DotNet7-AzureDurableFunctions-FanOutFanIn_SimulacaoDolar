@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureStorageNotifications": "",
+    "QueueAzureStorageNotifications": "",
+    "AzureServiceBusNotifications": "",
+    "QueueAzureServiceBusNotifications": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}
